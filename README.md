@@ -1,6 +1,3 @@
-# MotionCommand-V1
-Motion Command lets you control your computer in real time using hand gestures captured by your laptop camera. Powered by OpenCV and MediaPipe it detects gestures like thumb plus pinky or open palm to switch modes, move the cursor, draw on canvas and take screenshots making interaction intuitive and touch free.
-=======
 # Motion Command V1
 
 ## Overview
